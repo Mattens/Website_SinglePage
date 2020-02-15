@@ -1,0 +1,76 @@
+/*|---------------------------------------------------------------------|
+  |                                                                     |
+  |  Base.css           Some Basic Styles                               |
+  |                                                                     |
+  |                                                                     |
+  |                                                                     |
+  |                                                                     |
+  |                                                                     |
+  |                                                                     |
+  |                                                                     |
+  |                                                                     |
+  |                                                                     |
+  |---------------------------------------------------------------------|
+  |                                                                     |
+  |  erstellt:          15.10.2019 se                                   |
+  |  letzte Aenderung:  15.10.2019 se                                   |
+  |                                                                     |
+  |---------------------------------------------------------------------|*/
+
+/* body{margin-top:50px;font-family:sans-serif;font-size:small;text-align:center;color:black;} */
+
+body {
+
+    margin-top:         50px;
+    font-family:        sans-serif;
+    font-size:          medium;
+    text-align:         center;
+    color:              black;
+
+}
+
+.blau {
+    color: blue;
+}
+
+.rot {
+    color: red;
+}
+
+.tuerkis {
+    color: turquoise;
+}
+
+.gelb {
+    color: yellow;
+}
+
+.violett {
+    color: violet;
+}
+
+.dunkelgruen {
+    color: darkgreen;
+}
+
+.braun {
+    color: brown;
+}
+
+.hellblau {
+    color: lightblue;
+}
+
+.hellgruen {
+    color: lightgreen;
+}
+
+.pink {
+    color: pink;
+}
+
+.dunkelgrau {
+    color: darkgray;
+}
+
+.fett { font-weight: bolder; }
